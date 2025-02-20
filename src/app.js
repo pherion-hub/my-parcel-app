@@ -39,6 +39,11 @@ const myLocations = [
     name: 'Berlin Wall',
     location: [52.507541, 13.39032],
     description: 'The most famous wall in Berlin'
+  },
+  {
+    name: 'Olympic-Stadium',
+    location: [52.51529, 13.24093],
+    description: 'The famous Olympic-Stadium'
   }
 ];
 // Add markers to the map with a popup
