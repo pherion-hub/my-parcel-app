@@ -31,6 +31,11 @@ const myLocations = [
     description: 'The most famous gate in Berlin'
   },
   {
+    name: 'Home',
+    location: [52.46970, 13.42538],
+    description: 'The most beautiful place in Berlin'
+  },
+  {
     name: 'Berlin Wall',
     location: [52.507541, 13.39032],
     description: 'The most famous wall in Berlin'
