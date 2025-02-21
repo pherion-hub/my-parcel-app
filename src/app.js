@@ -41,6 +41,11 @@ const myLocations = [
     description: 'The most famous wall in Berlin'
   },
   {
+    name: 'Da Jia Le',
+    location: [52.49416, 13.36397],
+    description: 'China Restaurant Da Jia Le'
+  },
+  {
     name: 'Olympic-Stadium',
     location: [52.51529, 13.24093],
     description: 'The famous Olympic-Stadium'
