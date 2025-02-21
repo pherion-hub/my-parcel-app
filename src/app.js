@@ -26,6 +26,11 @@ const myLocations = [
     description: 'The most famous square in Berlin'
   },
   {
+    name: 'Stubenrauchstraße',
+    location: [52.47412, 13.32388],
+    description: 'A street in Berlin'
+  },
+  {
     name: 'Brandenburg Gate',
     location: [52.516275, 13.377704],
     description: 'The most famous gate in Berlin'
